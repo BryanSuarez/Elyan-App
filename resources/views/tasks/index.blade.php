@@ -320,7 +320,7 @@
                 <tr>
                     <th>TAREAS A REALIZAR:</th>
                     <th>CREADA EL:</th>
-                    <th>ACTUALIZADA EL:</th>
+                    <th>ACTUALIZADA EL: -></th>
                 </tr>
                 </thead>
                 <tbody>
